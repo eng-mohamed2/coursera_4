@@ -1,6 +1,7 @@
 h1{
-    font-size: 56px;
+    font-size: 26px;
     text-transform: capitalize;
     background-color: teal;
     color: white;
+    text-align: center;
 }
